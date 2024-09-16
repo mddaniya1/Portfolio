@@ -4,7 +4,7 @@ import { WORK } from "../constants"
 const Project = () => {
   return (
     <div className="p-8" id="projects">
-        <h2 className="my-10 text-center text-3xl lg:text-8xl">My Word</h2>
+        <h2 className="my-10 text-center text-3xl lg:text-8xl">My Work</h2>
         <div className="columns-1 gap-4 md:columns-2 lg:columns-3">
             {WORK.map((project) =>(
                 <a key={project.id} href={project.link} target="_blank"

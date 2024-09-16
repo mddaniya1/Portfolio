@@ -25,7 +25,7 @@ export const XYZ = [
 ];
 
 export const MARQUEE_TEXT =
-  "HTML5, CSS, Javascript, React.js, Next.js, Tailwind, Node, MongoDb,  MySql,  Redis,";
+  "HTML5, CSS, Javascript, Typescript, React.js, Next.js, Tailwind CSS, Node.js, MongoDb, MySql, Redis,";
 
 export const WORK = [
   {
@@ -121,11 +121,11 @@ export const EXPERIENCES = [
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
+    href: "https://twitter.com/MuhammadDa56738",
     icon: <FaFacebook fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://x.com/",
+    href: "https://discord.com/channels/@me",
     icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
   },
   {
@@ -137,11 +137,11 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaXTwitter fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://github.com/",
+    href: "https://github.com/mddaniya1",
     icon: <FaGithub fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/muhammad-daniyal-4b0b3629b/",
     icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
   },
 ];
